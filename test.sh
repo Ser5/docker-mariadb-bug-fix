@@ -1,0 +1,1 @@
+docker exec --user=root mf service mariadb status
